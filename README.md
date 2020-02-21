@@ -5,11 +5,12 @@ Zaxxon (ザクソン) is a 1982 isometric shooter arcade game, developed and rel
 
 ## Webgl Build
 
-https://drive.google.com/drive/folders/1GKKLPwRHSJ0hyRjyuuvOyCbLbfdhVBH0
+https://drive.google.com/drive/folders/17qwbOyytnWM383AK4vZpSnJbMN6pcYEc
+
 
 ## Source code:
 
-https://drive.google.com/drive/folders/17qwbOyytnWM383AK4vZpSnJbMN6pcYEc
+https://drive.google.com/drive/folders/1GKKLPwRHSJ0hyRjyuuvOyCbLbfdhVBH0
 
 ## Play on web:
 
