@@ -3,9 +3,9 @@
 Zaxxon (ザクソン) is a 1982 isometric shooter arcade game, developed and released by Sega, in which the player pilots a ship through heavily defended space fortresses.
 
 
-<img src="level_1.png" height="400" />
-<img src="level_2.png" height="400" />
-<img src="level_3.png" height="400" />
+<img src="level_1.png" height="500" />
+<img src="level_2.png" height="500" />
+<img src="level_3.png" height="500" />
 
 
 
