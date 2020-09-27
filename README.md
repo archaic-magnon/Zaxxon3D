@@ -8,6 +8,10 @@ Zaxxon (ザクソン) is a 1982 isometric shooter arcade game, developed and rel
 <img src="level_3.png" height="500" />
 
 
+## Play on web:
+
+http://www.cse.iitd.ac.in/~shubhankar/TA/COP701/hitesh_meraj/index.html
+
 
 ## Webgl Build
 
@@ -18,6 +22,3 @@ https://drive.google.com/drive/folders/17qwbOyytnWM383AK4vZpSnJbMN6pcYEc
 
 https://drive.google.com/drive/folders/1GKKLPwRHSJ0hyRjyuuvOyCbLbfdhVBH0
 
-## Play on web:
-
-http://www.cse.iitd.ac.in/~shubhankar/TA/COP701/hitesh_meraj/index.html
